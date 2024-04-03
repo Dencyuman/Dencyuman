@@ -27,7 +27,7 @@
 <p>
   <a href="https://github.com/Dencyuman">
     <h2>Skills</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,nodejs,nextjs,vercel,go,py,flask,fastapi,django,react,vite,materialui,sqlite,postgresql,mysql,redis,docker,selenium,git,md" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,nodejs,nextjs,vercel,go,py,flask,fastapi,react,vite,materialui,sqlite,postgresql,mysql,redis,docker,selenium,git,md" />
   </a>
 </p>
 
