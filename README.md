@@ -1,28 +1,14 @@
 <h2>Badges</h2>
-  <!-- Like のバッジ -->
+
+<p align="left">
   <a href="https://zenn.dev/dencyu">
-    <img src="https://zenn.badge.nikaera.com/s/dencyu/likes?style=plastic" alt="dencyu likes" />
+    <img src="https://badgen.org/img/zenn/dencyu/likes?style=flat-square" alt="Likes" />
+    <img src="https://badgen.org/img/zenn/dencyu/articles?style=flat-square" alt="Articles" />
+    <img src="https://badgen.org/img/zenn/dencyu/followers?style=flat-square" alt="Followers" />
+    <img src="https://badgen.org/img/zenn/dencyu/books?style=flat-square" alt="Books" />
+    <img src="https://badgen.org/img/zenn/dencyu/scraps?style=flat-square" alt="Scraps" />
   </a>
-
-  <!-- Articles のバッジ -->
-  <a href="https://zenn.dev/dencyu/articles">
-    <img src="https://zenn.badge.nikaera.com/s/dencyu/articles?style=plastic" alt="dencyu articles" />
-  </a>
-
-  <!-- Followers のバッジ -->
-  <a href="https://zenn.dev/dencyu/followers">
-    <img src="https://zenn.badge.nikaera.com/s/dencyu/followers?style=plastic" alt="dencyu followers" />
-  </a>
-
-  <!-- Books のバッジ -->
-  <a href="https://zenn.dev/dencyu/books">
-    <img src="https://zenn.badge.nikaera.com/s/dencyu/books?style=plastic" alt="dencyu books" />
-  </a>
-
-  <!-- Scraps のバッジ -->
-  <a href="https://zenn.dev/dencyu/scraps">
-    <img src="https://zenn.badge.nikaera.com/s/dencyu/scraps?style=plastic" alt="dencyu scraps" />
-  </a>
+</p>
 
 <p>
   <a href="https://github.com/Dencyuman">
