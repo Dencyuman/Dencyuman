@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A3FF&width=435&lines=AI+Engineer+%26+Founder+of+DENCYU;Building+%22OmakaseBI%22+for+Japan;Rise+Japan+as+No1+with+AI)](https://git.io/typing-svg)
+
 <h2>Badges</h2>
 
 <p align="left">
@@ -24,3 +26,8 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Dencyuman&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h2>Streak</h2>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dencyuman&theme=tokyonight" />
+</p>
